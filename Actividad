@@ -24,4 +24,4 @@ if response.status_code == 200:
         print(f"Salario mínimo: {min_salario}")
         print(f"Salario máximo: {max_salario}")
         print(f"Edad mínima: {min_edad}")
-        print(f"Edad máxima: {max_edad}"
+        print(f"Edad máxima: {max_edad}")
